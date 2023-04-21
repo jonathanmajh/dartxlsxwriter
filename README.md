@@ -4,12 +4,17 @@ This project aims to wrap the [libxlsxwriter](http://libxlsxwriter.github.io/) A
 
 Very much a WIP project
 
-Current Functions Implemented
-Create New Workbook
-Create New Worksheet
-Write int to Worksheet
-Write String to Worksheet
-Save Worksheet
+## Functions Implemented
+
+* Create New Workbook
+
+* Create New Worksheet
+
+* Write int to Worksheet
+
+* Write String to Worksheet
+
+* Save Worksheet
 
 ## Project stucture
 
