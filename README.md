@@ -1,12 +1,15 @@
 # dartxlsxwriter
 
-A new Flutter FFI plugin project.
+This project aims to wrap the [libxlsxwriter](http://libxlsxwriter.github.io/) API in dart, over FFI
 
-## Getting Started
+Very much a WIP project
 
-This project is a starting point for a Flutter
-[FFI plugin](https://docs.flutter.dev/development/platform-integration/c-interop),
-a specialized package that includes native code directly invoked with Dart FFI.
+Current Functions Implemented
+Create New Workbook
+Create New Worksheet
+Write int to Worksheet
+Write String to Worksheet
+Save Worksheet
 
 ## Project stucture
 
